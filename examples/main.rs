@@ -39,7 +39,6 @@ fn main() {
             }
         });
 
-        // TODO: Ugly
         let mut ret = CoreAudioDriver::new();
         ret.set_render_callback(Some(callback));
         ret
