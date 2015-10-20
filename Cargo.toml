@@ -8,5 +8,5 @@ repository = "https://github.com/emu-rs/emu-core-audio-driver"
 license = "BSD-2-Clause"
 
 [dependencies]
-emu-audio-types = "*"
+emu-audio-types = "0.1.0"
 coreaudio-rs = "0.2.0"
