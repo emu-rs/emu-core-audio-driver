@@ -1,6 +1,6 @@
 [package]
 name = "emu-core-audio-driver"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["ferris <jake@fusetools.com>"]
 description = "Core Audio driver for the emu project."
 homepage = "https://github.com/emu-rs/emu"
